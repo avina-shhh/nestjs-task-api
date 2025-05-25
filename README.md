@@ -48,7 +48,7 @@ This project was built in **3 days** as part of my learning journey into TypeScr
   "description": "Complete mini project",
   "isCompleted": false
 }
-
+```
 
 ✅ Setup Instructions
 
